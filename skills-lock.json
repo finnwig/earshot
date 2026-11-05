@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "ayrshare": {
+      "source": "membranedev/application-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ayrshare/SKILL.md",
+      "computedHash": "105a53b26e4829657adec6091aeee47de836e2114e52b97560c3649e00a0ef9b"
+    },
+    "creativeclaw": {
+      "source": "creativeclawco/creative-claw-marketplace",
+      "sourceType": "github",
+      "skillPath": "plugins/creative-claw/skills/creativeclaw/SKILL.md",
+      "computedHash": "4b3436c97585f72e49a18a49647c318e1b969fa2217e43379eebc1d4865ae36e"
+    },
+    "earshot": {
+      "source": "leonxlnx/earshot",
+      "sourceType": "github",
+      "skillPath": "skills/earshot/SKILL.md",
+      "computedHash": "72c8dfc6401343cdb92f4f3c2df732f04575bd0f24e8b0b6b0bde028916ee15e"
+    },
+    "watch-video": {
+      "source": "coreyhaines31/makerskills",
+      "sourceType": "github",
+      "skillPath": "skills/watch-video/SKILL.md",
+      "computedHash": "d888be4f7a51706a89aa7fdea03c5967e5f1b6d8cbfd5192ffc4040e5c248278"
+    }
+  }
+}
